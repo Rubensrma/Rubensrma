@@ -54,7 +54,7 @@ Consulting skills.
 
 ### Skills:
 HTML5 CSS3 JavaScript JSON MySQL Node.js Angular.js 
-Python PHP, C#, Java, Cobol, SQL Oracle...
+Python PHP C# Java Cobol SQL Oracle...
 
 
 
