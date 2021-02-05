@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  My name is Rubens Alves, Focused on Front-end / Back-end / Java / Full-stack / Cybersecurity for now, I'm a generalist software developer⌨️.
 
--[Courses]💻 My studies Programming languages: Java, Python, C, C #, C ++, HTML, CSS, Java,
+-[Courses]💻My studies Programming languages: Java, Python, C, C #, C ++, HTML, CSS, Java,
  Javascript, SQL, Ruby, JQuery, Php, Kotlin, Swift, Node.js, Golang, Reactjs, React Native,
  Angular, Vue.js, .NET, Ruby on Rails among others...
 
