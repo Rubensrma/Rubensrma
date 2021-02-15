@@ -30,8 +30,7 @@ Here are some ideas to get you started:
  My name is Rubens Alves, Focused on Front-end / Back-end / Java / Full-stack / Cybersecurity for now, I'm a generalist software developer⌨️.
  
  - **Bootcamps participation: IGTI Cybersecurity Analyst.
- Digital Innovation One: GFT Group - Training of front-end, back-end and
- testers.
+ Digital Innovation One: HTML Web Developer.
  Avanade Angular Developer.
  Inter Java Developer**.
 
