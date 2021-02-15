@@ -64,7 +64,6 @@ Consulting skills.
 
 
 
-<img src="https://github.com/Rubensrma/NETFLIX-CLONE/blob/master/index.html">
 
 
 
