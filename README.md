@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  Tech Bootcamp-Dive into the world of technology with Deloitte and Salesforce.
 
 Studying: Trails Beginner Admin / Beginner Developer. Superbadge
-Security Specialist (https://trailhead.salesforce.com/en-US/home).**.
+Security Specialist (https://trailhead.salesforce.com/en-US/home).
 
 - 💻**My studies Programming languages: Java, JSON, Python, C, C #, C ++, HTML, CSS, Java,
  Javascript, SQL, Ruby, JQuery, Php, Kotlin, Swift, Node.js, Golang, Reactjs, React Native,
