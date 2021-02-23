@@ -32,7 +32,11 @@ Here are some ideas to get you started:
  - **Bootcamps participation: IGTI Cybersecurity Analyst.
  Digital Innovation One: HTML Web Developer.
  Avanade Angular Developer.
- Inter Java Developer**.
+ Inter Java Developer.
+ Tech Bootcamp-Dive into the world of technology with Deloitte and Salesforce.
+
+Studying: Trails Beginner Admin / Beginner Developer. Superbadge
+Security Specialist (https://trailhead.salesforce.com/en-US/home).**.
 
 - 💻**My studies Programming languages: Java, JSON, Python, C, C #, C ++, HTML, CSS, Java,
  Javascript, SQL, Ruby, JQuery, Php, Kotlin, Swift, Node.js, Golang, Reactjs, React Native,
