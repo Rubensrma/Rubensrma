@@ -1,5 +1,5 @@
 <p align="center">
-    <img windth="470" src="[https://newtrade.com.br/wp-content/uploads/2017/01/tecnologia-12-01.jpg]">
+    <img windth="470" src="https://newtrade.com.br/wp-content/uploads/2017/01/tecnologia-12-01.jpg">
 </p>
 
 
