@@ -1,5 +1,5 @@
 <p align="center">
-    <img windth="470" src="https://www.visionnaire.com.br/dbimages/visionnaire-linguagens-de-programacao_14034_img.jpg">
+    <img windth="470" src="[https://www.visionnaire.com.br/dbimages/visionnaire-linguagens-de-programacao_14034_img.jpg](https://newtrade.com.br/wp-content/uploads/2017/01/tecnologia-12-01.jpg)">
 </p>
 
 
